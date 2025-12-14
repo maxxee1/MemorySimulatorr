@@ -9,6 +9,7 @@ Este programa simula el mecanismo de paginación de memoria utilizado por los si
 **Universidad**: Universidad Diego Portales  
 **Fecha**: Diciembre 2025
 
+
 ## Características Implementadas
 
 ### 1. Configuración de Memoria
@@ -197,3 +198,5 @@ El programa muestra:
 ### Muchos page faults:
 - Es normal, indica que hay poca RAM y mucho uso de SWAP
 - Aumente la memoria física para reducir page faults
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-React_Viz-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://paging-simulator-one.vercel.app)
